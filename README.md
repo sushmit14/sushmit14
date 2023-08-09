@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I am a Computer science undergardaute at Jadvapur University, Kolkata, India. I am intersted in (but not limited to) Machine Learning, Deep Learning and Nature Inspired Optimizers. 
+🌱 I am also currently learning Web Development and building MERN stack projects.

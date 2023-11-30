@@ -1,4 +1,4 @@
-### Hi everyone this is Sushmit Dasgupta this side:
+<h1 align="center">Hi 👋, I'm Sushmit Dasgupta</h1>
 <!--
 **sushmit14/sushmit14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sushmit Dasgupta</h1>
-- 🔭 I am a Computer science undergraduate at Jadvapur University, Kolkata, India. I am interested in (but not limited to) Machine Learning, Deep Learning and Nature Inspired Optimizers.  - 🌱 I am also currently learning Web Development and building MERN stack projects.
-- 📫 How to reach me **sushmitdasgupta14@gmail.com**
+  - 🔭 I am a Computer science undergraduate at Jadvapur University, Kolkata, India. I am interested in (but not limited to) Machine Learning, Deep Learning and Nature Inspired Optimizers.  
+  - 🌱 I am also currently learning Web Development and building MERN stack projects.
+  - 📫 How to reach me **sushmitdasgupta14@gmail.com**
 
 
 <!--
